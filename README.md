@@ -41,8 +41,11 @@ plt.title("Decision Tree Regressor")
 plt.show()
 */
 ```
+
 ## Output:
 ![Decision Tree Regressor Model for Predicting the Salary of the Employee](sam.png)
 <img width="987" height="832" alt="Screenshot 2026-05-13 093550" src="https://github.com/user-attachments/assets/82b52296-6763-4495-92ff-d37999c6c281" />
+
+
 ## Result:
 Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
